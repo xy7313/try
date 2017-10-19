@@ -1,3 +1,9 @@
+## Run:
+1. node server.js
+
+
+## Notes
+
 1. create index.js, code and run `node index.js` in this directory
 ```
 console.log("task1");
